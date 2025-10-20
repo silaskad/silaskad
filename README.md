@@ -8,4 +8,7 @@ I’m a full stack developer passionate about building clean, functional, and hu
 My background in customer service and digital marketing taught me to think like users, communicate clearly, and build with purpose.  
 Now, I’m focused on creating thoughtful, maintainable code and bringing real impact through great design and collaboration.  
 
+✨ Currently building projects that blend creativity, logic, and user experience.  
+📫 Let’s connect! I’m always open to ideas, collaborations, and meaningful projects.  
+
 </div>
